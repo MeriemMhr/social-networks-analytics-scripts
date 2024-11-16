@@ -2,7 +2,6 @@
 """
 Created on Fri Mar 15 13:15:54 2024
 
-@author: thavak
 """
 
 # Load Pkgs
